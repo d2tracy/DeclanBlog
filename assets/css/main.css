@@ -4689,6 +4689,6 @@ input, select, textarea {
 
 	}
 body {
-  background: url("images/background.jpeg") no-repeat center center fixed;
-  background-size: cover;
+  background: url("images/background.jpeg") no-repeat center center fixed !important;
+  background-size: cover !important;
 }
