@@ -4694,6 +4694,16 @@ body {
   background-size: cover !important;
 }
 
+.pdf-link {
+  color: blue;
+  font-weight: bold;
+  text-decoration: none; /* removes underline */
+}
+
+.pdf-link:hover {
+  text-decoration: underline; /* underline on hover for clarity */
+}
+
 
 
 
