@@ -4714,13 +4714,14 @@ body {
 .compact-table td {
   padding: 4px 8px;        /* reduce cell padding */
   line-height: 1.2;        /* tighten vertical spacing */
-  border: 1px solid #ccc;  /* optional: keeps it tidy */
+  /* border: 1px solid #ccc;   optional: keeps it tidy */
 }
 
 .table-wrapper {
   max-width: 600px;        /* optional: keeps table from stretching too wide */
   margin: 20px auto;
 }
+
 
 
 
