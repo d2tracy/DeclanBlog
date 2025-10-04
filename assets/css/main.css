@@ -4713,7 +4713,7 @@ body {
 .compact-table th,
 .compact-table td {
   padding: 4px 8px;        /* reduce cell padding */
-  line-height: 1.2;        /* tighten vertical spacing */
+  line-height: 2;        /* tighten vertical spacing */
   /* border: 1px solid #ccc;   optional: keeps it tidy */
 }
 
@@ -4726,6 +4726,7 @@ body {
   text-align: center;
   margin-bottom: 10px; /* space between title and table */
 }
+
 
 
 
