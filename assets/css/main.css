@@ -4722,6 +4722,11 @@ body {
   margin: 20px auto;
 }
 
+.table-title {
+  text-align: center;
+  margin-bottom: 10px; /* space between title and table */
+}
+
 
 
 
